@@ -1,3 +1,7 @@
+# 3. Quebra por análise de frequência Implemente um algoritmo que compare a frequência de letras do texto cifrado com a 
+# frequência média do português para tentar identificar automaticamente a chave usada. Utilize a informação contida em: 
+# https://www.gta.ufrj.br/grad/06_2/alexandre/criptoanalise.html
+
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 frequencies = {
     "a": 14.63,

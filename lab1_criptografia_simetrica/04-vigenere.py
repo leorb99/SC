@@ -1,3 +1,6 @@
+# 4. Escreva um programa que implemente a cifra de Vigenère (criptografar e descriptografar), permitindo chaves de 
+# tamanhos variados. 
+
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 vigenere_tab = []
 

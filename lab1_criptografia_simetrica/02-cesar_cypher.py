@@ -1,3 +1,6 @@
+# 2. Escreva um programa que, dado apenas um texto cifrado, tente todas as 26 chaves possíveis e mostre os resultados. 
+# O programa deve indicar qual resultado é mais provável de ser o texto original. 
+
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 dict = []
 with open('lab1_criptografia_simetrica/dict.txt', 'r') as file:
