@@ -34,3 +34,7 @@ def cesar_cypher(plain_text: str) -> str:
     return ans
 
 print(cesar_cypher('pda ckkz pda xwz wjz pda qchu'))
+
+print(cesar_cypher('ivj ajd j wvnovioz'))
+
+print(cesar_cypher('yqe jvewi hi xiwxi kpsfs vipskms geqmwe i xyhs qemw')) 
